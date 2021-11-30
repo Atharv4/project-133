@@ -1,0 +1,46 @@
+#fruit_status{
+    font-size: 18px;
+    background-color: #979796da;
+    width: 300px;
+    height: 35px;
+    margin-top: 15px;
+    padding-top: 5px;
+    color: white;
+    border-radius: 20px;
+}
+body{
+    background-size: cover;
+}
+.heading{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 30px;
+    font-size: 30px;
+    color: white;
+    background-color: rgba(180, 178, 178, 0.603);
+    margin-left: -115px;
+}
+.back_button{
+    float: left;
+    margin-left: 20px;
+    font-size: 18px;
+    background-color: #cca39eda;
+    width: 100px;
+    height: 35px;
+    margin-top: 15px;
+    padding-top: 5px;
+    color: white;
+    border-radius: 20px; 
+}
+#question_paragraph{
+    font-size: 18px;
+    background-color: #979796da;
+    width: 550px;
+    height: 35px;
+    margin-top: 15px;
+    padding-top: 5px;
+    color: white;
+    border-radius: 20px;
+}

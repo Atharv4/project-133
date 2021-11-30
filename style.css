@@ -1,0 +1,23 @@
+.anchor_buttons{
+    background-color: rgb(61, 60, 60);
+    padding-left: 50px;
+    padding-right: 50px;
+    color:white;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 30px;
+    border: 2px rgb(92, 91, 91) solid;
+}
+.heading{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 30px;
+    font-size: 30px;
+    color: white;
+    background-color: rgba(180, 178, 178, 0.603);
+}
+body{
+    background-size: cover;
+}
